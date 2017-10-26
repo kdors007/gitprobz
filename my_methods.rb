@@ -1,3 +1,4 @@
+
 def add_nums(a, b) =
   return a + b
 end
@@ -11,5 +12,9 @@ def fizzbuzz(num)
     "buzz"
   else
     num
-  end     
+  end
+end
+
+def suctract(b,a)
+	a-b
 end
